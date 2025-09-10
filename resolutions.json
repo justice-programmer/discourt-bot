@@ -1,0 +1,58 @@
+[
+    {
+        "caseNumber": "003",
+        "title": "Resolution on Public Health Funding",
+        "preamble": "Mindful of the need to strengthen the National Health Service (NHS).",
+        "type": "Traditional",
+        "submittedBy": "Parliamentary Health Committee",
+        "date": "2025-06-10",
+        "signatories": [
+            "Dr. Patel",
+            "Sir Johnson",
+            "MP Williams"
+        ],
+        "operativeClauses": [
+            "Increase NHS funding by 10% for the fiscal year 2026.",
+            "Expand medical training programmes to address staffing shortages.",
+            "Establish new community health centres in under-served areas."
+        ],
+        "conclusion": "This resolution reaffirms the UK’s commitment to universal healthcare access."
+    },
+    {
+        "caseNumber": "004",
+        "title": "Resolution on Education Reform",
+        "preamble": "Conscious of the role of education in fostering opportunity across the UK.",
+        "type": "Traditional",
+        "submittedBy": "Education Select Committee",
+        "date": "2025-05-05",
+        "signatories": [
+            "MP Davies",
+            "MP Ahmed",
+            "Baroness Clarke"
+        ],
+        "operativeClauses": [
+            "Introduce mandatory digital literacy courses in all secondary schools.",
+            "Increase funding for apprenticeships and vocational training.",
+            "Expand access to free school meals for low-income families."
+        ],
+        "conclusion": "This resolution lays out reforms to strengthen the UK’s education system."
+    },
+    {
+        "caseNumber": "0T1",
+        "title": "Test Resolution",
+        "preamble": "Recalling this test",
+        "type": "test",
+        "submittedBy": "test",
+        "date": "03/09/2025",
+        "signatories": [
+            "test1",
+            "test2"
+        ],
+        "operativeClauses": [
+            "run test1",
+            "run test2",
+            "test3"
+        ],
+        "conclusion": "this test is only a test"
+    }
+]
